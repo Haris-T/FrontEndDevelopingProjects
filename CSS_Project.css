@@ -82,3 +82,35 @@
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
+
+#whoWeAre {
+  text-align: center;
+}
+
+#aboutUsImage {
+  text-align: center;
+}
+
+#aboutUsImage {
+  width: 33%;
+}
+
+#aboutUsImage img {
+  max-width: 100%;
+  max-height: 70%;
+}
+
+#aboutUsContainer {
+  display: flex;
+  margin: auto;
+  width: 90%;
+}
+
+.aboutUsContent {
+  width: 33%;
+}
+
+.aboutUsContent h2 {
+  color: rgb(83, 162, 224);
+  font-weight: bold;
+}
